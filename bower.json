@@ -1,0 +1,16 @@
+{
+  "name": "Materialize-JQuery-GoogleMap",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "materialize": "0.97.6",
+    "jQuery": "2.2.3",
+    "Materialize": "materialize#0.97.6",
+    "material-design-icons": "^2.2.3"
+  },
+  "devDependencies": {}
+}
